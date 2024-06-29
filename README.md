@@ -19,7 +19,3 @@ rm -rf * && cmake -DCMAKE_BUILD_TYPE=Debug \
 - Where sources shall be stored:
 
 addr2line -a 0x60055be -p -i -f -C -e ./helloworld.elf
-
-- Screenshot
-
-![Alt text](pics/screenshot_Kronos_2.3.1.png?raw=true "Kronos v2.3.1")
