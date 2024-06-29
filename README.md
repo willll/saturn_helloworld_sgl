@@ -1,4 +1,4 @@
-# satun_helloworld
+# satun_helloworld_SGL
 SEGA Saturn HelloWorld with SGL
 
 Based on akira SGL sample code.
